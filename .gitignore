@@ -1,0 +1,16 @@
+# Models
+models/
+
+# Images
+images/
+pics/
+
+# Compiled files
+rt*
+
+# Visual studio files
+*.sln
+*vcxproj*
+.vs/*
+Debug/*
+Release/*
