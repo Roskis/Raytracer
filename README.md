@@ -40,4 +40,4 @@ Example
   seconds and rendering the image took 37 seconds with a combined total time of 56
   seconds (Intel Core i7 6700HQ @ 2.60 ghz).
 
-![Sample render of the happy buddha](./sample_render.png)
+![Sample render of the happy buddha](./images/sample_render.png)
